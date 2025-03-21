@@ -17,6 +17,16 @@ This repository contains a **Jupyter Notebook (.ipynb)** that demonstrates vario
 - **Jupyter Notebook / Google Colab**
 - **Libraries:** Seaborn, Matplotlib, Pandas, NumPy
 
+- ## 🛠 Project Functionality  
+This project provides an **interactive and detailed approach** to data visualization using **Seaborn** and **Matplotlib**. Below are the key functionalities:  
+
+🔹 **Load and Explore Data** – Read the BAC.csv file and perform basic exploratory data analysis (EDA).  
+🔹 **Data Cleaning** – Handle missing values and preprocess data for better visualization.  
+🔹 **Generate Visualizations** – Create different types of charts to analyze trends and patterns.  
+🔹 **Customize Graphs** – Modify color schemes, labels, legends, and styles for better readability.  
+🔹 **Save and Export Graphs** – Save visualizations as PNG, JPG, or PDF for reporting purposes.  
+🔹 **Interactive Visuals** – Use Seaborn’s built-in interactivity to enhance insights. 
+
 - 📂 Dataset
 The dataset BAC.csv contains structured data, which is used to generate meaningful visualizations. The notebook explains how to preprocess the dataset before creating insightful graphs.
 
