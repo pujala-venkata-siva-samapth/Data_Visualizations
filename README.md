@@ -17,6 +17,9 @@ This repository contains a **Jupyter Notebook (.ipynb)** that demonstrates vario
 - **Jupyter Notebook / Google Colab**
 - **Libraries:** Seaborn, Matplotlib, Pandas, NumPy
 
+- 📂 Dataset
+The dataset BAC.csv contains structured data, which is used to generate meaningful visualizations. The notebook explains how to preprocess the dataset before creating insightful graphs.
+
 ## 🚀 Access the Notebook
 Click the link below to open the notebook in **Google Colab**:
 https://colab.research.google.com/drive/16BxG235r17jZmVm__4PP1QxPKD60MobH?usp=sharing
